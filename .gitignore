@@ -1,0 +1,28 @@
+## macOS
+.DS_Store
+
+## Xcode / Swift
+build/
+DerivedData/
+*.xcuserstate
+*.xcuserdatad/
+xcuserdata/
+*.xccheckout
+*.moved-aside
+*.hmap
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+## SwiftPM
+.build/
+Packages/
+Package.resolved
+*.xcodeproj/project.xcworkspace/xcuserdata/
+*.xcodeproj/xcuserdata/
+
+## Xcode 16 workspace state
+*.xcworkspace/xcuserdata/
+
+## Personal
+.git-backup/
