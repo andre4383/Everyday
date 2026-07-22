@@ -18,15 +18,6 @@ Everyday is the iOS client of a small full-stack side project. It lets you keep 
 - Xcode 16+
 - A running instance of the [Everyday backend](https://github.com/andre4383/HabitTracker-API) (NestJS + Prisma + Postgres).
 
-## Getting started
-
-1. Clone this repo.
-2. Open `HabitTracker-IOS.xcodeproj` in Xcode.
-3. Start the backend locally (see backend README).
-4. Run the app on the iOS simulator (`Cmd+R`).
-
-The app is preconfigured to talk to `http://localhost:3000`. To point it to a deployed backend, update `baseURL` in `Services/APIClient.swift`.
-
 ## Features
 
 - Email/password authentication (JWT).
@@ -64,8 +55,4 @@ HabitTracker-IOS/
 
 Source: [HabitTracker-API](https://github.com/andre4383/HabitTracker-API).
 
-The API exposes `/auth/*` and `/habits/*` endpoints, protected by JWT. See its README for setup and endpoint documentation.
-
-## License
-
-Personal project. Not published.
+The API exposes `/auth/*` and `/habits/*` endpoints, protected by JWT.
