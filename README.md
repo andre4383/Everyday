@@ -3,9 +3,9 @@
 A minimalist habit tracker for iOS.
 
 <p align="center">
-  <img src="screenshots/hello.png" width="240" />
-  <img src="screenshots/detail.png" width="240" />
-  <img src="screenshots/new-habit.png" width="240" />
+<img width="240" alt="Simulator_Screenshot_-_iPhone_17_Pro_-_2026-07-21_at_18 11 15" src="https://github.com/user-attachments/assets/68953a95-6b0d-49b0-b5a1-74279b45f320" />
+<img width="240" alt="Simulator_Screenshot_-_iPhone_17_Pro_-_2026-07-21_at_18 11 20" src="https://github.com/user-attachments/assets/2a844fb6-9a6c-4be3-ab4b-1be739a3e502" />
+<img width="240" alt="Simulator_Screenshot_-_iPhone_17_Pro_-_2026-07-21_at_18 11 28" src="https://github.com/user-attachments/assets/7cb9916e-69d1-4f5e-af53-33d308e66d71" />
 </p>
 
 ## About
