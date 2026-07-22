@@ -1,6 +1,6 @@
 # Everyday
 
-A minimalist habit tracker for iOS. Warm, editorial, quiet.
+A minimalist habit tracker for iOS.
 
 <p align="center">
   <img src="screenshots/hello.png" width="240" />
